@@ -13,6 +13,7 @@ import BottomNavbar from "./components/navigation/BottomNavbar";
 import CreateTastePage from "./pages/CreateTastePage.jsx";
 import UserProfile from "./pages/UserProfile";
 import EditProfile from "./pages/EditProfile";
+import ExplorePage from "./pages/Explore";
 
 const Layout = ({ children }) => {
   const location = useLocation();
@@ -42,6 +43,7 @@ const App = () => {
           <Route path="/create" element={<CreateTastePage />} />
           <Route path="/profile" element={<UserProfile/>} />
            <Route path="/edit-profile" element={<EditProfile />} />
+           <Route path="/explore" element={<ExplorePage/>} />
           {/* Future routes like /explore, /profile can go here */}
         </Routes>
       </Layout>
