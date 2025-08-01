@@ -138,6 +138,7 @@ qloo-taste-app/
 For queries, contributions or suggestions:  
 📧 jeetgoyal80@gmail.com  
 🔗 https://www.linkedin.com/in/jeet-goyal-95bb21285
+
 🔧 Built with ❤️ by Jeet Goyal
 
 ---
