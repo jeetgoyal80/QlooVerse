@@ -82,21 +82,27 @@ qloo-taste-app/
    ```bash
    cd Qloo_App
    npm install
-   
-   Start Frontend
+
+   ```
+  # Start Frontend
+  
+   ```bash
    cd frontend
    npm install
    npm run dev
-   ```
-   ```bash
-   Start Backend
    
+   ```
+  
+
+   # Start Backend
+   
+  ```bash
    cd ..
-   cd ./backend
+   cd backend
    npm install
    npm run dev
    
-    ```
+   ```
 
    
 
@@ -150,6 +156,7 @@ qloo-taste-app/
 
 For queries, contributions or suggestions:  
 📧 jeetgoyal80@gmail.com  
+
 🔗 https://www.linkedin.com/in/jeet-goyal-95bb21285
 
 🔧 Built with ❤️ by Jeet Goyal
